@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef81479c07ce245322793c7be7cc4ae3",
+    "revision": "6e22569b681542c5274c468a2b668f77",
     "url": "/AgenKlik/index.html"
   },
   {
-    "revision": "b0de2c3a2d3a7215b9be",
+    "revision": "a84c7b90a197c521e482",
     "url": "/AgenKlik/static/css/main.f85e24b6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AgenKlik/static/js/3.8bcdfb4d.chunk.js"
   },
   {
-    "revision": "b0de2c3a2d3a7215b9be",
-    "url": "/AgenKlik/static/js/main.cd546460.chunk.js"
+    "revision": "a84c7b90a197c521e482",
+    "url": "/AgenKlik/static/js/main.8c98d3f6.chunk.js"
   },
   {
     "revision": "8af56ad14c777a1a697a",
