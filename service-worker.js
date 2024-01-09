@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AgenKlik/precache-manifest.b69d40fd2e6e7f62e626653b7373d737.js"
+  "/AgenKlik/precache-manifest.73c1796b3922cd5cfa8b4ec633efa195.js"
 );
 
 self.addEventListener('message', (event) => {

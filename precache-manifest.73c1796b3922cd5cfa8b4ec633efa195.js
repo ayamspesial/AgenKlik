@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e22569b681542c5274c468a2b668f77",
+    "revision": "06b9b51f9886d0a197b6fdb7229b6b26",
     "url": "/AgenKlik/index.html"
   },
   {
-    "revision": "a84c7b90a197c521e482",
+    "revision": "ddaa7b08fb732c00cd9e",
     "url": "/AgenKlik/static/css/main.f85e24b6.chunk.css"
   },
   {
-    "revision": "e0b73065cdc248c6f42d",
-    "url": "/AgenKlik/static/js/2.ff9efd61.chunk.js"
+    "revision": "3c2ade67e091777e97cc",
+    "url": "/AgenKlik/static/js/2.b3968559.chunk.js"
   },
   {
     "revision": "f4e372463eca9aa1d6433868772ef3b7",
-    "url": "/AgenKlik/static/js/2.ff9efd61.chunk.js.LICENSE.txt"
+    "url": "/AgenKlik/static/js/2.b3968559.chunk.js.LICENSE.txt"
   },
   {
     "revision": "eca1266bbfb64412120e",
     "url": "/AgenKlik/static/js/3.8bcdfb4d.chunk.js"
   },
   {
-    "revision": "a84c7b90a197c521e482",
-    "url": "/AgenKlik/static/js/main.8c98d3f6.chunk.js"
+    "revision": "ddaa7b08fb732c00cd9e",
+    "url": "/AgenKlik/static/js/main.f67be7f1.chunk.js"
   },
   {
     "revision": "8af56ad14c777a1a697a",
