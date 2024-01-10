@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06b9b51f9886d0a197b6fdb7229b6b26",
+    "revision": "313a6f7dd5a34ae4055649dcb1574a9b",
     "url": "/AgenKlik/index.html"
   },
   {
