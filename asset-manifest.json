@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AgenKlik/static/css/main.f85e24b6.chunk.css",
-    "main.js": "/AgenKlik/static/js/main.b30e9647.chunk.js",
-    "main.js.map": "/AgenKlik/static/js/main.b30e9647.chunk.js.map",
+    "main.js": "/AgenKlik/static/js/main.e9de7029.chunk.js",
+    "main.js.map": "/AgenKlik/static/js/main.e9de7029.chunk.js.map",
     "runtime-main.js": "/AgenKlik/static/js/runtime-main.b62f168d.js",
     "runtime-main.js.map": "/AgenKlik/static/js/runtime-main.b62f168d.js.map",
     "static/js/2.b3968559.chunk.js": "/AgenKlik/static/js/2.b3968559.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.8bcdfb4d.chunk.js": "/AgenKlik/static/js/3.8bcdfb4d.chunk.js",
     "static/js/3.8bcdfb4d.chunk.js.map": "/AgenKlik/static/js/3.8bcdfb4d.chunk.js.map",
     "index.html": "/AgenKlik/index.html",
-    "precache-manifest.a123a0f6a43b41e3ce0004d4d76d8a92.js": "/AgenKlik/precache-manifest.a123a0f6a43b41e3ce0004d4d76d8a92.js",
+    "precache-manifest.fd4e4f896582155ae192fc329eed1d70.js": "/AgenKlik/precache-manifest.fd4e4f896582155ae192fc329eed1d70.js",
     "service-worker.js": "/AgenKlik/service-worker.js",
     "static/css/main.f85e24b6.chunk.css.map": "/AgenKlik/static/css/main.f85e24b6.chunk.css.map",
     "static/js/2.b3968559.chunk.js.LICENSE.txt": "/AgenKlik/static/js/2.b3968559.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.b62f168d.js",
     "static/js/2.b3968559.chunk.js",
     "static/css/main.f85e24b6.chunk.css",
-    "static/js/main.b30e9647.chunk.js"
+    "static/js/main.e9de7029.chunk.js"
   ]
 }
